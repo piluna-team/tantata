@@ -22,6 +22,7 @@
   - ABM de Cuentas
   - Apertura y Cierre de Periodos
   - ABM de Usuarios
+  - Tipos de Movimientos
   
 - __Principales Funcionalidades__
   - Mantenimiento de saldos de cuentas
